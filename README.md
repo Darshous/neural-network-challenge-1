@@ -94,16 +94,12 @@ To run the notebook, you need the following libraries:
    ```bash
    git clone https://github.com/your-username/neural-network-challenge-1.git
    cd neural-network-challenge-1
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter Notebook:
+
+2. Open the Jupyter Notebook:
    ```bash
    jupyter notebook student_loans_with_deep_learning.ipynb
    ```
-4. Run each cell step by step to preprocess data, train the model, make predictions, and evaluate the results.
+3. Run each cell step by step to preprocess data, train the model, make predictions, and evaluate the results.
 
 ---
 

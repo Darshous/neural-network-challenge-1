@@ -104,8 +104,8 @@ To run the notebook, you need the following libraries:
 ---
 
 ## Results
-- **Accuracy**: The model achieved an accuracy of approximately `X%` on the test data (replace `X` with your result).
-- The classification report showed strong precision and recall for both repayment classes.
+- **Accuracy**: The model achieved an accuracy of approximately `57%` on the test data.
+- The classification report showed average precision and recall for both repayment classes.
 
 ---
 
@@ -115,9 +115,10 @@ This project demonstrates the application of neural networks in predicting stude
 ---
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ---
 
 ## Acknowledgments
 - This project was completed as part of Module 18 of the AI Bootcamp curriculum.
+- Readme contributions from CGPT.
